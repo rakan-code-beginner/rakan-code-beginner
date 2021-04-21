@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rakan-code-pre beginner
+- 👋 Hi, I’m @rakan im a beginner
 - 👀 I’m interested in game dev and c# unity 
 - 🌱 I’m currently learning c# on youtube 
 - 📫 How to reach me discord:rakan#8690 
