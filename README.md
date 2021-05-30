@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rakan im a beginner
-- 👀 I’m interested in game dev and c# unity 
-- 🌱 I’m currently learning c# on youtube 
+- 👀 I’m interested in game dev and python 
+- 🌱 I’m currently learning c# on youtube and starting to take online pyhon classes
 - 📫 How to reach me discord:rakan#8690 
 
 <!---
